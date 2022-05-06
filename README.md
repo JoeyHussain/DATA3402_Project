@@ -6,7 +6,7 @@
 ## Overview
   * **Definition of the tasks / challenge**  The task, create an NLI model that assigns labels of entailment, neutral, and contradiction to pairs of premises and hypotheses in a multitude of languages as well as explore the use and applications of TPUs.  
   * **Your approach** Ex: The approach in this repository formulates the problem as regression task, using deep recurrent neural networks as the model with the full time series of features as input. We compared the performance of 3 different network architectures.
-  * **Summary of the performance achieved** Ex: Our best modelWe were able to predict the next day stoch price within 23%, 90% of the time. At the time of writing, the best performance on Kaggle of this metric is 18%.
+  * **Summary of the performance achieved** My best model achieved a 0.92762 the best scoring project on Kaggle was 0.9767
 
 ## Summary of Workdone
 
